@@ -4,7 +4,7 @@ We use this repository to publish security advisories for our customers. Please 
 
 
 # Archive
-Older security advisories have been moved to the "Archive" folder in this repository:
+Older security advisories have been moved to the [Archive](https://github.com/accellion/CVEs/tree/main/Archive) folder in this repository:
 * CVE-2021-27101.txt
 * CVE-2021-27102.txt
 * CVE-2021-27103.txt
